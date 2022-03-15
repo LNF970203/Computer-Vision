@@ -3,4 +3,4 @@ Projects about computer vision
 
 ### This is containing projects about computer visions
 - CNN networks
-- Augmented libraries
+- Working with data augemntation libraries
